@@ -3,7 +3,7 @@
 SETUVAR __fish_init_2_39_8:\x1d
 SETUVAR __fish_init_2_3_0:\x1d
 SETUVAR __fish_init_3_x:\x1d
-SETUVAR __fish_initialized:3100
+SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_opctl_2D_clear_2D_cache:opctl\x20node\x20kill\x20\x26\x26\x20sudo\x20rm\x20\x2drf\x20\x7e/Library/Application\x5c\x20Support/opctl/dcg
 SETUVAR _fish_abbr_vd:vagrant\x20destroy
 SETUVAR _fish_abbr_vs:vagrant\x20ssh
@@ -38,3 +38,4 @@ SETUVAR fish_pager_color_completion:normal
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
+SETUVAR fish_pager_color_selected_background:\x2dr
