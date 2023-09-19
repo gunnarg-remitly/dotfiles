@@ -39,3 +39,11 @@ ln -s (echo (cd (dirname fish_variables) && pwd)/(basename fish_variables)) $HOM
 ln -s (echo (cd (dirname config.fish) && pwd)/(basename functions)) $HOME/.config/fish/functions
 # restart fish
 fish
+# install fisher
+ curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher    
+ # install fish nvm
+ fisher install jorgebucaran/nvm.fish
+ # install node 16
+ nvm install 16
+ # install yarn
+ brew install yarn
